@@ -1,11 +1,11 @@
 {
-	"name": "sweet/cli",
+	"name": "Sequoia/testPackage",
 	"description": "beautify php cli in bash",
 	"license": "GPLv3",
 	"authors": [
 		{
-			"name": "xuqingfeng",
-			"email": "js-xqf@hotmail.com"
+			"name": "(borrowed by) Sequoia",
+			"email": "foo@bar.com"
 		}
 	],
 	"minimum-stability": "dev",
